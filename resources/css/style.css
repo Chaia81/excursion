@@ -5,19 +5,24 @@ body {
   color: white;
 }
 
-h1 {
+.discover {
 font-weight: normal;
 font-size: 50px;
 color: white;
 }
 
-h2 {
+.special {
   color: Aquamarine;
   font-size: 16px;
 }
 
-h3 {
+.personal {
   font-weight: 300;
   font-size: 42px;
   color: white;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
 }
